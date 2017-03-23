@@ -10,11 +10,15 @@
 - [x] [Python for Everybody Specialization](https://www.coursera.org/specializations/python)
 - [x] [Introduction to Natural Language Processing](https://www.coursera.org/learn/natural-language-processing)
 - [ ] [Applied Social Network Analysis](https://www.coursera.org/learn/python-social-network-analysis)
+- [ ] [Google's Deep Learning Nanodegree](https://www.udacity.com/course/deep-learning--ud730)
+- [ ] [Google/Kaggle Machine Learning Engineer Nanodegree](https://www.udacity.com/course/machine-learning-engineer-nanodegree-by-google--nd009)
+- [ ] [Self-Driving Car Engineer Nanodegree](https://www.udacity.com/drive)
 
-## Ebooks
-- [x] An Introduction to Statistical Learning: with Applications in R
-- [ ] The Elements of Statistical Learning
-- [ ] 
+## Resources
+- Ebooks
+  - [x] An Introduction to Statistical Learning: with Applications in R
+  - [ ] The Elements of Statistical Learning
+- Data School: http://www.dataschool.io/
 
 ## Samples
 - Machine Learning

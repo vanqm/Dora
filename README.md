@@ -1,4 +1,4 @@
-# Dora
+# Dora ![](http://vignette4.wikia.nocookie.net/parody/images/3/3d/Dory.png/revision/latest?cb=20141126175511)
 
 ## 5 CÁCH GIÚP MẸ BẦU VƯỢT CẠN NHANH CHÓNG, DỄ DÀNG HƠN
 1. Ăn dứa vào tuần thứ 39 của thai kỳ
